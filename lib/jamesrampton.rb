@@ -1,5 +1,5 @@
 class Jamesrampton
-  def say
+  def self.doit
     puts "http://www.jamesrampton.com"
   end
 end
