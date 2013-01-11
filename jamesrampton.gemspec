@@ -5,6 +5,7 @@ Gem::Specification.new do |s|
   s.summary = ""
   s.description = ""
   s.authors = ["James Rampton"]
+  s.executables << 'jamesrampton'
   s.files = ["lib/jamesrampton.rb"]
   s.homepage = 'http://www.jamesrampton.com'
 end
