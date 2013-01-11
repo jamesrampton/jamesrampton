@@ -1,5 +1,6 @@
 class Jamesrampton
   def self.doit
-    puts "http://www.jamesrampton.com"
+    msg = "http://www.jamesrampton.com"
+    msg
   end
 end
